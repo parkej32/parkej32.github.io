@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "ABOUT"
+    url: /about/
+  - title: "PORTFOLIO"
+    url: /portfolio/
+  - title: "MARKUP"
+    url: /markup/
+  - title: "JAVASCRIPT"
+    url: /javascript/
+  - title: "REACT & VUE"
+    url: /frontend/
+  # - title: "SERVER SIDE"
+  #   url: /serverside/
+  - title: "Etc."
+    url: /etc/
