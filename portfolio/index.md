@@ -3,7 +3,19 @@ title: "Portfolio"
 layout: collection
 
 feature_row: #이미지 갤러리
-  - url: /portfolio/2019_jobkorea
+  - url: /portfolio/2020_01_react_native
+    image_path: /assets/images/portfolio/2020/2020_wallet_270x270.png
+    alt: "이더리움 월넷"
+    title: "이더리움 월넷"
+  - url: /portfolio/2019_03_react
+    image_path: /assets/images/portfolio/2019/2019_react_first_270x270.png
+    alt: "Preorder Coffee"
+    title: "Preorder Coffee (개인과제)"
+  - url: /portfolio/2019_02_vue
+    image_path: /assets/images/portfolio/2019/2019_vue_first_270x270.png
+    alt: "Zzanguni's Diary"
+    title: "Zzanguni's Diary (개인과제)"
+  - url: /portfolio/2019_01_jobkorea
     image_path: /assets/images/portfolio/2019/2019_jobkorea_270x270.jpg
     alt: "잡코리아"
     title: "잡코리아 운영"

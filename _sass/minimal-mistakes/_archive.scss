@@ -242,7 +242,7 @@
 
   .archive__item-title {
     margin-top: 1em;
-    font-size: 1.1em;
+    font-size: 0.75em;
   }
 }
 
@@ -259,7 +259,7 @@
   }
   @include breakpoint($medium) {
     margin-bottom: 0;
-    width: span(3 of 12);
+    width: span(2 of 12);
 
     &:nth-child(2n + 1) {
       clear: none;
