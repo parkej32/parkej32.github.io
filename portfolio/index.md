@@ -23,27 +23,27 @@ feature_row: #이미지 갤러리
     image_path: /assets/images/portfolio/2017/2017_junsungki_270x270.jpg
     alt: "전성기"
     title: "전성기 운영"
-  - url: /portfolio/2015_koreaair
+  - url: /portfolio/2015_03_koreaair
     image_path: /assets/images/portfolio/2015/2015_koreaair_270x270.jpg
     alt: "대항항공"
     title: "대한항공 웹접근성"
-  - url: /portfolio/2015_eungabi_04
+  - url: /portfolio/2015_02_eungabi_04
     image_path: /assets/images/portfolio/2015/2015_eungabi_01_270x270.jpg
     alt: "화연비책"
     title: "화연비책 구축"
-  - url: /portfolio/2015_eungabi_03
+  - url: /portfolio/2015_02_eungabi_03
     image_path: /assets/images/portfolio/2015/2015_eungabi_02_270x270.jpg
     alt: "은가비 닷컴"
     title: "은가비 닷컴 구축"
-  - url: /portfolio/2015_eungabi_02
+  - url: /portfolio/2015_02_eungabi_02
     image_path: /assets/images/portfolio/2015/2015_eungabi_03_270x270.jpg
     alt: "테마파크"
     title: "테마파크 구축"
-  - url: /portfolio/2015_eungabi_01
+  - url: /portfolio/2015_02_eungabi_01
     image_path: /assets/images/portfolio/2015/2015_eungabi_04_270x270.jpg
     alt: "한솔요리학원"
     title: "한솔요리학원 구축"
-  - url: /portfolio/2015_aist
+  - url: /portfolio/2015_01_aist
     image_path: /assets/images/portfolio/2015/2015_aist_270x270.jpg
     alt: "에이스트 사내 커뮤니티"
     title: "에이스트 솔루션 리뉴얼"
@@ -99,43 +99,43 @@ feature_row: #이미지 갤러리
     image_path: /assets/images/portfolio/2013/2013_olleh_270x270.jpg
     alt: "제3회 olleh 국제스마트폰영화제"
     title: "제3회 olleh 국제스마트폰영화제 구축"
-  - url: /portfolio/2012_event365
+  - url: /portfolio/2012_10_event365
     image_path: /assets/images/portfolio/2012/2012_event365_270x270.jpg
     alt: "이벤트365"
     title: "이벤트365 리뉴얼"
-  - url: /portfolio/2012_apple
+  - url: /portfolio/2012_09_apple
     image_path: /assets/images/portfolio/2012/2012_apple_270x270.jpg
     alt: "사과나무 치과병원"
     title: "사과나무 치과병원 리뉴얼"
-  - url: /portfolio/2012_dunkin_m
+  - url: /portfolio/2012_08_dunkin_m
     image_path: /assets/images/portfolio/2012/2012_dunkin_m_270x270.jpg
     alt: "던킨도너츠 모바일"
     title: "던킨도너츠 모바일 신규"
-  - url: /portfolio/2012_dunkin_pc
+  - url: /portfolio/2012_07_dunkin_pc
     image_path: /assets/images/portfolio/2012/2012_dunkin_pc_270x270.jpg
     alt: "던킨도너츠 PC"
     title: "던킨도너츠 PC 리뉴얼"
-  - url: /portfolio/2012_usjewelry
+  - url: /portfolio/2012_06_usjewelry
     image_path: /assets/images/portfolio/2012/2012_usjewelry_270x270.jpg
     alt: "U.S.JEWELRY HOUSE"
     title: "U.S.JEWELRY HOUSE 리뉴얼"
-  - url: /portfolio/2012_thinkingpig
+  - url: /portfolio/2012_05_thinkingpig
     image_path: /assets/images/portfolio/2012/2012_thinkingpig_270x270.jpg
     alt: "U.S.JEWELRY HOUSE"
     title: "U.S.JEWELRY HOUSE 리뉴얼"
-  - url: /portfolio/2012_ginseng
+  - url: /portfolio/2012_04_ginseng
     image_path: /assets/images/portfolio/2012/2012_ginseng_270x270.jpg
     alt: "강개상인"
     title: "강개상인 구축"
-  - url: /portfolio/2012_duzon
+  - url: /portfolio/2012_03_duzon
     image_path: /assets/images/portfolio/2012/2012_duzon_270x270.jpg
     alt: "더존 그룹웹어"
     title: "더존 그룹웹어 구축"
-  - url: /portfolio/2012_jeonju
+  - url: /portfolio/2012_02_jeonju
     image_path: /assets/images/portfolio/2012/2012_jeonju_270x270.jpg
     alt: "전주영화제(영문)"
     title: "전주영화제(영문) 구축"
-  - url: /portfolio/2012_galleria
+  - url: /portfolio/2012_01_galleria
     image_path: /assets/images/portfolio/2012/2012_galleria_270x270.jpg
     alt: "한화갤러리아 쇼핑몰 운영"
     title: "한화갤러리아 쇼핑몰 운영"
