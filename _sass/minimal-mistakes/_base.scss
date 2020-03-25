@@ -242,6 +242,7 @@ figure {
     overflow: hidden;
     background-color: #ededed;
     border-radius: $border-radius;
+    border:1px solid $base00;
   }
 
   &.half {
