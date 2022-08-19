@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "ko"
-title: "본 투 비 프론트엔드"
+title: "zzangsuni"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "박은정"
@@ -124,9 +124,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:parkej32@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "http://www.zzangsuni.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
