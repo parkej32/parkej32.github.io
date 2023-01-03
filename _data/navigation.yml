@@ -8,7 +8,7 @@ main:
     url: /markup/
   - title: "JAVASCRIPT"
     url: /javascript/
-  - title: "REACT & VUE"
+  - title: "VUE & REACT"
     url: /frontend/
   # - title: "SERVER SIDE"
   #   url: /serverside/
